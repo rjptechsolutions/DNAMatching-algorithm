@@ -1,2 +1,2 @@
-# DNAMatching-algorithm
+# DNA Matching algorithm
 Python
